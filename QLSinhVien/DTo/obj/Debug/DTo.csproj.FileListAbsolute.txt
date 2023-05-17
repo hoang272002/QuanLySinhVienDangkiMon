@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\ATBM\HOANG\QLSinhVien\DTo\bin\Debug\DTo.dll
+C:\Users\ASUS\Desktop\ATBM\HOANG\QLSinhVien\DTo\bin\Debug\DTo.pdb
+C:\Users\ASUS\Desktop\ATBM\HOANG\QLSinhVien\DTo\obj\Debug\DTo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ATBM\HOANG\QLSinhVien\DTo\obj\Debug\DTo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ATBM\HOANG\QLSinhVien\DTo\obj\Debug\DTo.dll
+C:\Users\ASUS\Desktop\ATBM\HOANG\QLSinhVien\DTo\obj\Debug\DTo.pdb
